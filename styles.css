@@ -2,7 +2,7 @@ input:invalid {
   background: pink;
 }
 input:valid {
-  background: lime;
+  background: lightgreen;
 }
 button
 {
